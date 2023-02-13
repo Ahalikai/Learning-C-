@@ -18,5 +18,11 @@
     <ClCompile Include="LSD_Lines.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="LSD_Alg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Lifting_angle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

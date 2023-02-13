@@ -152,6 +152,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Lifting_angle.cpp" />
+    <ClCompile Include="LSD_Alg.cpp" />
     <ClCompile Include="LSD_Lines.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
