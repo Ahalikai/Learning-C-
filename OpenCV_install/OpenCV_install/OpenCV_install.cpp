@@ -6,7 +6,7 @@
 using namespace cv;
 using namespace std;
 
-int main()
+int hello()
 
 {
 	Mat img = imread("E:\\证件照\\头像.jpg");

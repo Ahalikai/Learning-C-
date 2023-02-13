@@ -18,5 +18,8 @@
     <ClCompile Include="OpenCV_install.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Otsu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
