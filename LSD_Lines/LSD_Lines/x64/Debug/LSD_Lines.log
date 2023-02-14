@@ -1,4 +1,6 @@
 ﻿  Lifting_angle.cpp
-d:\c++\lsd_lines\lsd_lines\lifting_angle.cpp(45): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-d:\c++\lsd_lines\lsd_lines\lifting_angle.cpp(91): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\c++\lsd_lines\lsd_lines\lifting_angle.cpp(63): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\c++\lsd_lines\lsd_lines\lifting_angle.cpp(90): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\c++\lsd_lines\lsd_lines\lifting_angle.cpp(92): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\c++\lsd_lines\lsd_lines\lifting_angle.cpp(137): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
   LSD_Lines.vcxproj -> D:\C++\LSD_Lines\x64\Debug\LSD_Lines.exe
